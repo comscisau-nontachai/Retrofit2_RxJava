@@ -1,0 +1,2 @@
+rootProject.name='Retrifit2_rxjava'
+include ':app'
